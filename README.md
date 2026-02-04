@@ -1,4 +1,4 @@
-#  BHC Score: Biological Health Composite Algorithm
+#  BHC Score: BioOmics Health Check  Algorithm
 
 **Author:** Yasmine Allem
 **Status:** Completed (Jan 2026)
